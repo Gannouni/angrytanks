@@ -1,0 +1,27 @@
+Welkom bij Angry Tanks!
+
+-NAVIGATIE-
+Hoofdmenu: druk op Play om naar de start opties te gaan.
+Start opties: kies je favoriete level en kies twee namen.
+Stel tevens ook de maximum hp en windsnelheid in.
+Druk op Start om het spel te beginnen of ga terug met Terug.
+Spel: wanneer het spel gestart is kunt u op de knop 
+Stoppen duwen om te stoppen of op de Help knop om nogmaals 
+om hulp te vragen.
+
+-SPELVERLOOP-
+Bovenaan kunt u het hp van de beide spelers zien. 
+U kunt de windrichting en de windsnelheid zien aan de pijl.
+Onderaan kunt u de hoek en de kracht instellen, dit doet
+u met de sliders en zo de baan van het schot te bepalen.
+U kunt onderaan ook informatie vinden over het spelverloop.
+Zo kunt u zien wie er aan de beurt is, wat het vorige schot
+geraakt heeft en wie uiteindelijk de winnaar zal zijn.
+
+-DE WINNAAR-
+Diegene die als eerste de hp van de andere speler op 0 kan
+krijgen en de tank van de tegenspeler tot een hoopje schroot
+kan herleiden, wint het spel!
+
+
+-LET THE BATTLE COMMENCE!!-
